@@ -3,8 +3,8 @@
 
 |Aspect|Architecture|
 |---|---|
-|🧠 Decision Making|- Human cannot know the future, but we can predict possibilities with probabilities. <br> - Thoughts often lock in. Be aware and recheck them.|
-|🪎 Finance| - Spend money less than acquired + Accumulate wealth. <br> - Make money while we can chill.|
+|🧠 Decision Making|- Human cannot know the future, but can predict possibilities with probabilities. <br> - Thoughts often lock in. Be aware and recheck them.|
+|🪎 Finance| - Spend money less than acquired + Accumulate wealth. <br> - Make money.|
 |🧑‍🧑‍🧒‍🧒 Relationship| - Increase people's smiles. <br> - Reduce people's frown.|
-|🧘 Psychological| - Aware thoughts before actions. <br> - Ask what we learn from this thought.|
+|🧘 Psychological| - Aware thoughts before actions. <br> - Ask what can be learnt from this thought.|
 |🏋️ Physical| - Strength the body. <br> - Get sweat.|
