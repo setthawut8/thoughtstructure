@@ -16,3 +16,5 @@
 > - Strength the body + get sweat
 
 |🧘 Psychological| Aware thoughts before actions|
+| ----------- | ----------- |
+| eiei | hehe |
