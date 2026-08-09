@@ -17,4 +17,4 @@
 
 |🧘 Psychological| Aware thoughts before actions|
 | ----------- | ----------- |
-| eiei | hehe |
+| > - eiei | > - hehe |
