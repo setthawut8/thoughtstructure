@@ -15,6 +15,10 @@
 ## 🏋️ Physical
 > - Strength the body + get sweat
 
-|🧘 Psychological| Aware thoughts before actions|
-| ----------- | ----------- |
-| > - eiei | > - hehe |
+## 🧘 Psychological
+> - Aware thoughts before actions
+
+|***Aspect|***Archetecture|
+|---|---|
+|🧠 Decision Making|Human cannot know the future, but we can predict possibilities with probabilities. + |
+||Thoughts often operate automatically as locked-in thoughts. But the world is always changing, so be aware and recheck them.|
