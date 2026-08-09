@@ -4,9 +4,9 @@
 ---
 Decision Making
 ---
-
+- eiei
 ---
-Finacne
+Finance
 ---
 
 ---
