@@ -3,7 +3,7 @@
 
 |Aspect|Architecture|
 |---|---|
-|🧠 Decision Making|- Human cannot know the future, but we can predict possibilities with probabilities. <br> - Thoughts often lock in. As the world is always changing, so be aware and recheck them.|
+|🧠 Decision Making|- Human cannot know the future, but we can predict possibilities with probabilities. <br> - Thoughts often lock in. Be aware and recheck them.|
 |🪎 Finance| - Spend money less than received + Accumulate wealth. <br> - Make money while you can watch WeTV and Youtube.|
 |🧑‍🧑‍🧒‍🧒 Relationship| - Increase people's smiles. <br> - Reduce people's frown.|
 |🧘 Psychological| - Aware thoughts before actions. <br> - Ask what I learn from this thought.|
