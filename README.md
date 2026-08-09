@@ -11,6 +11,7 @@
 
 |Aspect|Architecture|
 |---|---|
-|🧑‍🧑‍🧒‍🧒 Relationship|Increase people's smiles, reduce people's frown.|
-|🧘 Psychological|Aware thoughts before actions|
-|🏋️ Physical|Strength the body + get sweat|
+|🪎 Finance| Spend money less than received + Accumulate wealth. <br> Make money while you can watch WeTV and Youtube|
+|🧑‍🧑‍🧒‍🧒 Relationship| Increase people's smiles, reduce people's frown.|
+|🧘 Psychological| Aware thoughts before actions|
+|🏋️ Physical| Strength the body + get sweat|
