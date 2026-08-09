@@ -9,6 +9,7 @@
 > - Spend money less than received + Accumulate wealth.
 > - Make money while you can watch WeTV and Youtube.
 
+|Aspect|Architecture|
 |---|---|
 |🧑‍🧑‍🧒‍🧒 Relationship|Increase people's smiles, reduce people's frown.|
 |🧘 Psychological|Aware thoughts before actions|
