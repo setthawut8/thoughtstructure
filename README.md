@@ -1,4 +1,4 @@
-# Thought Structure 🏛️
+# 🏛️ Thought Structure 
 - this aims to be a page sharing about how Boom (繁荣) structures thought for each aspect of life.
 
 |Aspect|Architecture|
