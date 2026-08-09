@@ -9,21 +9,25 @@
 
 ---
 🪎 Finance
+---
 - Spend money less than received + Accumulate wealth.
 - Make money while you can watch WeTV and Youtube.
 ---
 
 ---
 🧑‍🧑‍🧒‍🧒 Relationship
+---
 - Increase people's smiles, reduce people's frown.
 ---
 
 ---
 🏋️ Physical
+---
 - Strength the body + get sweat
 ---
 
 ---
 🧘 Psychological
+---
 - Aware thoughts before actions
 ---
