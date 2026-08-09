@@ -1,5 +1,5 @@
 # Thought Structure 🏛️
-- this aims to be a page sharing about how Boom (繁荣) structures thought for each aspect of life (Decision Making, Finance, Relationship, Physical, Psychological).
+- this aims to be a page sharing about how Boom (繁荣) structures thought for each aspect of life.
 
 |Aspect|Architecture|
 |---|---|
