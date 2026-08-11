@@ -1,5 +1,5 @@
-# 🏛️ Core Thoughts
-- this aims to be a page sharing about how Boom (繁荣) structures core architectures for each aspect of life.
+# 🏛️ Fundamental Thought Architectures
+- this aims to be a page sharing about how Boom (繁荣) sees primary structures for each aspect of life.
 
 |Aspect|Architecture|
 |---|---|
