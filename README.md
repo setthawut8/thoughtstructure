@@ -1,4 +1,4 @@
-# 🏛️ Fundamental Thought Architectures
+# 🏛️ Fundamental Views
 - this aims to be a page sharing about how Boom (繁荣) sees primary structures for each aspect of life.
 
 |Aspect|Architecture|
