@@ -4,7 +4,7 @@
 |Aspect|Architecture|
 |---|---|
 |🧠 Decision|- Human cannot know the future, but can predict possibilities with probabilities. <br> - Thoughts often lock in. Be aware and reupdate them.|
-|🪎 Wealth| - Spend money less than acquired + Accumulate. <br> - Make money while you can chill.|
+|🪎 Wealth| - Accumulate + spend money less than acquire. <br> - Make money while you can chill.|
 |🧑‍🧑‍🧒‍🧒 Interpersonality| - Increase people's smiles. <br> - Reduce people's frown.|
 |🧘 Mind| - Aware thoughts before actions. <br> - Ask what can be learnt from this thought.|
 |🏋️ Body| - Strength the body. <br> - Get sweat.|
